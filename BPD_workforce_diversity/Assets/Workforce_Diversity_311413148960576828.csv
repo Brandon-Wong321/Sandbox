@@ -1,0 +1,225 @@
+﻿OBJECTID,num_row,Department,GenderCode,Gender,Ethnicity,Tenure,Age,Sworn_Non_Sworn,TenureRanking
+1,1,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+2,2,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+3,3,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+4,4,Police,F,Female,White (Not Hispanic or Latino),21-24,60+,Non-Sworn,5
+5,5,Police,M,Male,White (Not Hispanic or Latino),25+,30-39,Sworn,6
+6,6,Police,M,Male,White (Not Hispanic or Latino),25+,30-39,Sworn,6
+7,7,Police,M,Male,White (Not Hispanic or Latino),25+,30-39,Sworn,6
+8,8,Police,M,Male,White (Not Hispanic or Latino),25+,20-29,Sworn,6
+9,9,Police,M,Male,White (Not Hispanic or Latino),25+,30-39,Sworn,6
+10,10,Police,M,Male,Asian (Not Hispanic or Latino),25+,30-39,Sworn,6
+11,11,Police,M,Male,Asian (Not Hispanic or Latino),25+,30-39,Sworn,6
+12,12,Police,F,Female,White (Not Hispanic or Latino),25+,30-39,Non-Sworn,6
+13,13,Police,M,Male,White (Not Hispanic or Latino),25+,30-39,Sworn,6
+14,14,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+15,15,Police,F,Female,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+16,16,Police,F,Female,Asian (Not Hispanic or Latino),21-24,20-29,Non-Sworn,5
+17,17,Police,F,Female,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+18,18,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+19,19,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+20,20,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+21,21,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+22,22,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+23,23,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+24,24,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+25,25,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+26,26,Police,F,Female,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+27,27,Police,M,Male,White (Not Hispanic or Latino),21-24,30-39,Sworn,5
+28,28,Police,M,Male,White (Not Hispanic or Latino),21-24,20-29,Sworn,5
+29,29,Police,M,Male,Asian (Not Hispanic or Latino),21-24,30-39,Sworn,5
+30,30,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+31,31,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+32,32,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+33,33,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+34,34,Police,F,Female,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+35,35,Police,M,Male,Hispanic or Latino,16-20,20-29,Sworn,4
+36,36,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+37,37,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+38,38,Police,F,Female,White (Not Hispanic or Latino),16-20,60+,Non-Sworn,4
+39,39,Police,M,Male,Black or African American,16-20,20-29,Sworn,4
+40,40,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+41,41,Police,M,Male,Asian (Not Hispanic or Latino),16-20,30-39,Sworn,4
+42,42,Police,M,Male,Asian (Not Hispanic or Latino),16-20,20-29,Sworn,4
+43,43,Police,M,Male,Hawaiian or Pacific Islander,16-20,30-39,Sworn,4
+44,44,Police,M,Male,White (Not Hispanic or Latino),16-20,30-39,Sworn,4
+45,45,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+46,46,Police,F,Female,White (Not Hispanic or Latino),16-20,30-39,Non-Sworn,4
+47,47,Police,M,Male,Hispanic or Latino,16-20,30-39,Non-Sworn,4
+48,48,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+49,49,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+50,50,Police,M,Male,Asian (Not Hispanic or Latino),16-20,20-29,Sworn,4
+51,51,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+52,52,Police,M,Male,White (Not Hispanic or Latino),16-20,30-39,Sworn,4
+53,53,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+54,54,Police,M,Male,White (Not Hispanic or Latino),16-20,30-39,Sworn,4
+55,55,Police,M,Male,Two or More Races,16-20,20-29,Sworn,4
+56,56,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+57,57,Police,M,Male,White (Not Hispanic or Latino),16-20,30-39,Sworn,4
+58,58,Police,F,Female,White (Not Hispanic or Latino),16-20,20-29,Non-Sworn,4
+59,59,Police,M,Male,White (Not Hispanic or Latino),16-20,20-29,Sworn,4
+60,60,Police,M,Male,White (Not Hispanic or Latino),10-15,60+,Non-Sworn,3
+61,61,Police,M,Male,Two or More Races,10-15,20-29,Sworn,3
+62,62,Police,M,Male,Asian (Not Hispanic or Latino),10-15,20-29,Sworn,3
+63,63,Police,F,Female,White (Not Hispanic or Latino),10-15,20-29,Sworn,3
+64,64,Police,M,Male,Hispanic or Latino,10-15,20-29,Non-Sworn,3
+65,65,Police,F,Female,White (Not Hispanic or Latino),10-15,30-39,Non-Sworn,3
+66,66,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+67,67,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+68,68,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+69,69,Police,M,Male,Black or African American,10-15,30-39,Sworn,3
+70,70,Police,M,Male,Hispanic or Latino,10-15,20-29,Sworn,3
+71,71,Police,F,Female,Hispanic or Latino,10-15,30-39,Non-Sworn,3
+72,72,Police,F,Female,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+73,73,Police,M,Male,White (Not Hispanic or Latino),10-15,20-29,Sworn,3
+74,74,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+75,75,Police,M,Male,Black or African American,10-15,30-39,Sworn,3
+76,76,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+77,77,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+78,78,Police,M,Male,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+79,79,Police,F,Female,White (Not Hispanic or Latino),10-15,30-39,Sworn,3
+80,80,Police,F,Female,Asian (Not Hispanic or Latino),10-15,30-39,Sworn,3
+81,81,Police,F,Female,White (Not Hispanic or Latino),10-15,20-29,Sworn,3
+82,82,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+83,83,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+84,84,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+85,85,Police,F,Female,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+86,86,Police,F,Female,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+87,87,Police,M,Male,Hispanic or Latino,5-9,30-39,Sworn,2
+88,88,Police,F,Female,Hispanic or Latino,5-9,30-39,Sworn,2
+89,89,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+90,90,Police,M,Male,Asian (Not Hispanic or Latino),5-9,30-39,Sworn,2
+91,91,Police,F,Female,Hispanic or Latino,5-9,30-39,Non-Sworn,2
+92,92,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+93,93,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+94,94,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+95,95,Police,F,Female,Two or More Races,5-9,30-39,Non-Sworn,2
+96,96,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Non-Sworn,2
+97,97,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+98,98,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+99,99,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+100,100,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+101,101,Police,M,Male,Hispanic or Latino,5-9,20-29,Sworn,2
+102,102,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+103,103,Police,F,Female,Two or More Races,5-9,20-29,Sworn,2
+104,104,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+105,105,Police,M,Male,Two or More Races,5-9,30-39,Sworn,2
+106,106,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+107,107,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Non-Sworn,2
+108,108,Police,M,Male,Asian (Not Hispanic or Latino),5-9,30-39,Sworn,2
+109,109,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+110,110,Police,M,Male,Two or More Races,5-9,30-39,Sworn,2
+111,111,Police,M,Male,Asian (Not Hispanic or Latino),5-9,30-39,Sworn,2
+112,112,Police,M,Male,Asian (Not Hispanic or Latino),5-9,20-29,Sworn,2
+113,113,Police,F,Female,White (Not Hispanic or Latino),5-9,20-29,Non-Sworn,2
+114,114,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+115,115,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+116,116,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Non-Sworn,2
+117,117,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+118,118,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+119,119,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Non-Sworn,2
+120,120,Police,F,Female,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+121,121,Police,M,Male,Black or African American,5-9,30-39,Sworn,2
+122,122,Police,M,Male,Black or African American,5-9,30-39,Sworn,2
+123,123,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+124,124,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+125,125,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+126,126,Police,M,Male,White (Not Hispanic or Latino),5-9,20-29,Sworn,2
+127,127,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+128,128,Police,M,Male,White (Not Hispanic or Latino),5-9,30-39,Sworn,2
+129,129,Police,M,Male,Black or African American,5-9,30-39,Sworn,2
+130,130,Police,M,Male,Hispanic or Latino,5-9,30-39,Sworn,2
+131,131,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+132,132,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+133,133,Police,M,Male,Two or More Races,Under 5,30-39,Non-Sworn,1
+134,134,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+135,135,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+136,136,Police,F,Female,Black or African American,Under 5,30-39,Sworn,1
+137,137,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+138,138,Police,M,Male,Black or African American,Under 5,60+,Sworn,1
+139,139,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+140,140,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+141,141,Police,F,Female,Black or African American,Under 5,20-29,Non-Sworn,1
+142,142,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+143,143,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+144,144,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+145,145,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+146,146,Police,M,Male,Black or African American,Under 5,20-29,Sworn,1
+147,147,Police,F,Female,Hispanic or Latino,Under 5,30-39,Sworn,1
+148,148,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+149,149,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+150,150,Police,M,Male,Black or African American,Under 5,20-29,Sworn,1
+151,151,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+152,152,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+153,153,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+154,154,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+155,155,Police,M,Male,Two or More Races,Under 5,30-39,Sworn,1
+156,156,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+157,157,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+158,158,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+159,159,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+160,160,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+161,161,Police,M,Male,Hispanic or Latino,Under 5,20-29,Sworn,1
+162,162,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+163,163,Police,F,Female,American Indian/Alaskan Native,Under 5,20-29,Non-Sworn,1
+164,164,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+165,165,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+166,166,Police,M,Male,Hispanic or Latino,Under 5,20-29,Sworn,1
+167,167,Police,F,Female,Hawaiian or Pacific Islander,Under 5,30-39,Non-Sworn,1
+168,168,Police,F,Female,Asian (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+169,169,Police,F,Female,Asian (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+170,170,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+171,171,Police,F,Female,Two or More Races,Under 5,30-39,Non-Sworn,1
+172,172,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+173,173,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+174,174,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+175,175,Police,M,Male,Hispanic or Latino,Under 5,20-29,Non-Sworn,1
+176,176,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+177,177,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+178,178,Police,M,Male,Two or More Races,Under 5,20-29,Sworn,1
+179,179,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+180,180,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+181,181,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+182,182,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+183,183,Police,F,Female,Black or African American,Under 5,30-39,Sworn,1
+184,184,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+185,185,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+186,186,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+187,187,Police,M,Male,Hispanic or Latino,Under 5,20-29,Sworn,1
+188,188,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+189,189,Police,F,Female,Asian (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+190,190,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+191,191,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+192,192,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+193,193,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Non-Sworn,1
+194,194,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+195,195,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Non-Sworn,1
+196,196,Police,M,Male,Two or More Races,Under 5,20-29,Sworn,1
+197,197,Police,F,Female,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+198,198,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+199,199,Police,F,Female,Two or More Races,Under 5,30-39,Sworn,1
+200,200,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+201,201,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+202,202,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+203,203,Police,F,Female,Asian (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+204,204,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+205,205,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+206,206,Police,M,Male,Two or More Races,Under 5,20-29,Sworn,1
+207,207,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+208,208,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+209,209,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+210,210,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+211,211,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+212,212,Police,M,Male,Two or More Races,Under 5,20-29,Sworn,1
+213,213,Police,M,Male,Hispanic or Latino,Under 5,30-39,Sworn,1
+214,214,Police,M,Male,Hispanic or Latino,Under 5,30-39,Sworn,1
+215,215,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+216,216,Police,M,Male,White (Not Hispanic or Latino),Under 5,30-39,Sworn,1
+217,217,Police,F,Female,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+218,218,Police,M,Male,Hispanic or Latino,Under 5,20-29,Sworn,1
+219,219,Police,F,Female,Hispanic or Latino,Under 5,20-29,Non-Sworn,1
+220,220,Police,M,Male,Asian (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+221,221,Police,F,Female,Hispanic or Latino,Under 5,20-29,Non-Sworn,1
+222,222,Police,F,Female,Two or More Races,Under 5,20-29,Sworn,1
+223,223,Police,M,Male,White (Not Hispanic or Latino),Under 5,20-29,Sworn,1
+224,224,Police,M,Male,Hispanic or Latino,Under 5,Under 20,Sworn,1
